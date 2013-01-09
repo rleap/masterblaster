@@ -1,0 +1,28 @@
+body {
+    
+    background: #303030;
+    
+}
+
+canvas {
+    display: block;
+}
+
+#primaryBg  {
+    
+     background: #FFFFFF;
+     margin: 100px auto 0px;
+    
+}
+
+#canvasFg {
+    
+     margin: -600px auto 0px;
+    
+}
+
+#fighter {
+    
+     margin: -600px auto 0px;
+    
+}
