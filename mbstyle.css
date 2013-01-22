@@ -15,13 +15,7 @@ canvas {
     
 }
 
-#canvasFg {
-    
-     margin: -600px auto 0px;
-    
-}
-
-#fighter, #enemy {
+#canvasFg, #canvasFighter, #canvasEnemy, #canvasHUD {
     
      margin: -600px auto 0px;
     
